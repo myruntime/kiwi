@@ -1,13 +1,13 @@
 package com.saicmotor;
 
-import static org.junit.Assert.assertTrue;
-
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple TmMmPart.
  */
-public class AppTest 
+public class TmMmPartTest
 {
     /**
      * Rigorous Test :-)

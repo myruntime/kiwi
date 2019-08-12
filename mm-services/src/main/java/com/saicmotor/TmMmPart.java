@@ -6,8 +6,5 @@ package com.saicmotor;
  */
 public class TmMmPart
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+
 }
