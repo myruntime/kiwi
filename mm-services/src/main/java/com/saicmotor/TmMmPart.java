@@ -4,7 +4,7 @@ package com.saicmotor;
  * Hello world!
  *
  */
-public class App 
+public class TmMmPart
 {
     public static void main( String[] args )
     {
